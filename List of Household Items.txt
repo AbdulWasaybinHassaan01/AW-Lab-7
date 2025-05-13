@@ -1,0 +1,9 @@
+Bed
+Sofa Couch
+Computer
+Chair
+Cupboard
+Wardrobe
+Television
+Dining Table
+Air Conditioner
